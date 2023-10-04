@@ -25,10 +25,9 @@ position: relative;
 .title {
   display: flex;
   justify-content: center; /* Set to inline-block so it can flow beside the text */
-  width: 40%; /* Needs a width to share space with the text */
-  margin-left: 10px; /* A little margin so it isn't pressed directly against the text */
+  width: 40%; 
+  margin-left: 10px; 
   margin-bottom: 10px; 
-  /*display: flex;*/
   height: 200px;
 }
 .two {
